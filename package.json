@@ -1,0 +1,16 @@
+{
+  "name": "afk-bot-3000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "mineflayer-blockfinder": "^0.0.7",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}
